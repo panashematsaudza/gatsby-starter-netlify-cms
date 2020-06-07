@@ -13,6 +13,6 @@ I am Panashe  Matsaudza and I am thrilled to invite you on a journey through the
 
 
 
-I’ve been working on quite a lot of software projects in the past 10+ years , and been fascinated by Machine Learning in the past 5+ years (including industry experience). Hopefully, some of my learning might be useful for you too!
+I’ve been working on quite a lot of software projects in the past  5+ years , and been fascinated by Machine Learning in the past 2+ years (including industry experience). Hopefully, some of my learning might be useful for you too!
 
 <!--EndFragment-->
